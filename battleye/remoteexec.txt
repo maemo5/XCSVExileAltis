@@ -1,0 +1,4 @@
+//regex
+1 "ExileClient_system_network_dispatchIncomingMessage"
+1 "FN_infiSTAR_C"
+1 "" !="exileserver_system_network_dispatchincomingmessage.*" !="fnc_adminreq \[.*\]" !="true" !="vehicle this land 'LAND'" !="bis_fnc_effectkilledairdestruction.*"

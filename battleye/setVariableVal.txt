@@ -1,0 +1,2 @@
+//regex
+1 "" !(true|false|any) !="[0-9]{1,2}" !="\"\"" !="\"111thID\"" !="\"BI\"" !="\"ExileBrunswik\"" !="\"CTRG\"" !="\"CTRG14\"" !="\"CTRG15\"" !="\"Exile\"" !="\"GryffinRegiment\"" !="\"MANW\"" !="\"TFAegis\"" !="\"Curator\"" !="\"Jets_ID\"" !="\"CombatPatrol\""

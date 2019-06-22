@@ -1,0 +1,6 @@
+//regex
+1 "" !="exilexm8isonline" !="bis_fnc_selectrespawntemplate_respawned" !="ExileCameraInUse" !="isrunning" !="bis_fnc_setunitinsignia_class" !="bis_accesscounter" !="saved3deninventory"
+1 "ExilePurse"
+1 "ExileBank"
+1 "ExileMoney"
+1 "ExileScore"

@@ -1,0 +1,5 @@
+//regex
+1 ""
+1 "AH_KICK_OFF_"
+1 "i_am_global_banned"
+7 "" !="takegive_poptab"
