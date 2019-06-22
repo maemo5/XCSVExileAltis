@@ -1,0 +1,22 @@
+extDB2: Version: 70
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 24 Cores, Setting up 6 Worker Threads
+
+
+[14:08:27:807943 --4:00] [Thread 7740] extDB2: Database Type: MySQL
+[14:08:27:879504 --4:00] [Thread 7740] extDB2: Database Session Pool Started
+[14:08:28:198333 --4:00] [Thread 7740] extDB2: SQL_CUSTOM_V2: Loading Template Filename: C:\Arma\Server\@ExileServer\extDB\sql_custom_v2\exile.ini
+[14:08:28:198708 --4:00] [Thread 7740] extDB2: SQL_CUSTOM_V2: Version 12 Detected, Latest Version 12 Available
+[14:08:29:450343 --4:00] [Thread 7740] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Input String loadContainerIdPage:0:100
+[14:08:29:450386 --4:00] [Thread 7740] extDB2: SQL_CUSTOM_V2: Error No Custom Call Not Found: Callname loadContainerIdPage
+[14:09:18:540136 --4:00] [Thread 7740] extDB2: Stopping ...
