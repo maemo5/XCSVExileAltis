@@ -517,3 +517,6 @@ execVM "Custom\announcepay.sqf";
 
 // Load Status Bar
 [] execVM "Custom\StatusBar\statusBar_init.sqf";
+
+//Rewards
+_nul = execVM "custom\ETG_LoginrewardScript.sqf";

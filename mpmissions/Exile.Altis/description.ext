@@ -90,4 +90,39 @@ class RscTitles
 {
     // Status Bar
     #include "Custom\StatusBar\statusBar.hpp"
+    #include "GF_DeathScreen\GF_DeathScreen_rscTitles.hpp" 
+};
+
+class CfgSounds
+{
+        
+    //GF_DeathScreen
+    class Death_Blood_Splatter_SFX{name = "Death_Blood_Splatter_SFX";sound[] = {"GF_DeathScreen\Death_Blood_Splatter_SFX.ogg", db0, 1.0};titles[] = {};};
+    class Heart_Beat_dying{name = "Heart_Beat_dying";sound[] = {"GF_DeathScreen\Heart_Beat_dying.ogg", db0, 1.0};titles[] = {};};
+
+        sounds[] = {drop,siren1,siren2,siren3};
+        class drop
+        {
+            name="drop";
+            sound[]={"@a3\data_f_curator\sound\cfgsounds\incoming2.wss",db+10,1};
+            titles[] = {};
+        };
+        class siren1
+        {
+            name="siren1";
+            sound[]={"custom\Sounds\siren1.ogg",db+6,1};
+            titles[] = {};
+        };
+        class siren2
+        {
+            name="siren2";
+            sound[]={"custom\Sounds\siren2.ogg",db+6,1};
+            titles[] = {};
+        };
+            class siren3
+        {
+            name="siren3";
+            sound[]={"custom\Sounds\siren3.ogg",db+6,1};
+            titles[] = {};
+        };
 };
